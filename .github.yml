@@ -5,4 +5,7 @@ description: confd docker image
 tags:
   - docker
   - confd
-github: {}
+github:
+  has_issues: true
+  has_projects: false
+  has_wiki: false
