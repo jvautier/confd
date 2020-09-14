@@ -1,0 +1,7 @@
+---
+fullname: jvautier/docker-confd
+description: confd docker image
+tags:
+  - docker
+  - confd
+github: {}
